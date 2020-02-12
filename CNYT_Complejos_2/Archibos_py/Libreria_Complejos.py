@@ -19,8 +19,6 @@ def producto(c_1, c_2):
     """
     return [c_1[0] * c_2[0] - c_1[1] * c_2[1], c_1[0] * c_2[1] + c_1[1] * c_2[0]]
 
-
-
 def division(c_1, c_2):
     """
     La funsión division recibe 2 números complejos, c_1 y c_2 (Que deben ser listas de longitud 2) y retorna un complejo
