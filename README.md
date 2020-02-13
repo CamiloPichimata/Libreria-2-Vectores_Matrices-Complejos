@@ -4,7 +4,7 @@
 ### Por Camilo Andrés Pichimata Cárdenas
 11 / 02 / 2020
 ___
-En el presente repositorio se presentan una serie de funcionas definidas en el lenguaje de programación "Python" sobre operaciones entre matrices y vectores conformadas por los números complejos más conocidos como imaginarios. A continuación, un índice con con las funciones específicadas:
+En el presente repositorio se presentan una serie de funcionas definidas en el lenguaje de programación "Python" sobre operaciones entre matrices y vectores conformadas por los números complejos, igualmente conocidos como imaginarios. A continuación, un índice con las funciones especificadas:
 
 + **Adición de vectores complejos**
 
@@ -40,7 +40,7 @@ En el presente repositorio se presentan una serie de funcionas definidas en el l
 
 + **Producto tensor de dos matrices / vecotores**
 
-Para finalizar se presenta una sección llamada **"adicionales"** en la que se encuentran algunas funciones auxiliares que son necesarias para el funcionamiento de las anteriores, ya que realizarán procesos aparte como son la creación de matrices inicializadas en ceros que luego serán modificadas para presentrar un respuesta.
+Para finalizar se presenta una sección llamada **"adicionales"** en la que se encuentran algunas funciones auxiliares que son necesarias para el funcionamiento de las anteriores, ya que realizarán procesos aparte como son la creación de matrices inicializadas en ceros que luego serán modificadas para presentrar un respuesta, o la creación de la matriz identidad con el fin de compararla y responder si una matriz es o no unitaria.
 
 Se debe tener en cuenta que por comodidad los datos se ingresan en forma de listas que tienen como longitud 2, por ejemplo, el número complejo 4 + 5i se ingresará como [4, 5].
 
