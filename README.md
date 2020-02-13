@@ -44,7 +44,7 @@ Para finalizar se presenta una sección llamada **"adicionales"** en la que se e
 
 Se debe tener en cuenta que por comodidad los datos se ingresan en forma de listas que tienen como longitud 2, por ejemplo, el número complejo 4 + 5i se ingresará como [4, 5].
 
-Además tenga presente que para ejecutar el archivo realizado en Jupyter Notebook (con extensión .ipynb) debe ejecutar cada uno de los módulos o espacios de código donde están propuestas las funciones antes de comenzar a realizar pruebas, ya que algunas están relacionadas o necesitan de otras para dar un resultado; En el caso de los archibos del lenguage de programación *python* tenga en cuenta que se deben encontrar ambos almacenados en la misma carpeta o lugar para que se ejecuten correctamente.
+Además tenga presente que para ejecutar el archivo realizado en Jupyter Notebook (con extensión .ipynb) debe ejecutar cada uno de los módulos o espacios de código donde están propuestas las funciones antes de comenzar a realizar pruebas, ya que algunas están relacionadas o necesitan de otras para dar un resultado; En el caso de los archivos del lenguage de programación *python* tenga en cuenta que se deben almacenar en la misma carpeta o ubicación para que se ejecuten correctamente.
 
 A continuación los archivos a los que podrá acceder:
 
