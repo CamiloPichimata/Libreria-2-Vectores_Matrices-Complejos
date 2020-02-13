@@ -51,6 +51,7 @@ A continuación los archivos a los que podrá acceder:
 - [Libreria_Vectores_y_Matrices.ipynb](https://github.com/CamiloPichimata/Libreria-2-Vectores_Matrices-Complejos/blob/master/CNYT_Complejos_2/Archivos_ipynb/Libreria_Vectores_y_Matrices.ipynb)
 - [Libreria_Complejos.py](https://github.com/CamiloPichimata/Libreria-2-Vectores_Matrices-Complejos/blob/master/CNYT_Complejos_2/Archibos_py/Libreria_Complejos.py)
 - [Libreria_Vectores_y_Matrices.py](https://github.com/CamiloPichimata/Libreria-2-Vectores_Matrices-Complejos/blob/master/CNYT_Complejos_2/Archibos_py/Libreria_Vectores_y_Matrices.py)
+- [Test_Libreria_Vectores_y_Matrices.py](https://github.com/CamiloPichimata/Libreria-2-Vectores_Matrices-Complejos/blob/master/CNYT_Complejos_2/Archivos_py/Test_Libreria_Vectores_y_Matrices.py)
 
 En caso de no visualizar correctamente los archivos ingresando a los anteriores links, podrá encontrarlos en una carpeta llamada CNYT_Complejos_2 que se encuentra en la parte superior.
 
